@@ -1,2 +1,0 @@
-esse é um novo teste para subir no git hub
-arquivo para ser enviado e puxar no clone repo
